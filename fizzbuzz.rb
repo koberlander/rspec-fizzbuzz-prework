@@ -1,8 +1,8 @@
 def fizzbuzz(int)
-  if divisible by 5, 3
-    return "FizzBuzz"
-    elsif divisible by jgfjtf 
-       return ""
+  if int % 5 === 0 && int % 3 === 0
+    "FizzBuzz"
+    elsif int % 5 === 0
+       ""
   else 
     return ""
   end
