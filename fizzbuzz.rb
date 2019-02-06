@@ -1,4 +1,4 @@
-def fizzbuzz()
+def fizzbuzz(int)
   if divisible by 5, 3
     return "FizzBuzz"
     elsif divisible by jgfjtf 
